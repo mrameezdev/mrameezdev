@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrameezdev
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning the MERN Stack and Flutter
+- 🌱 I’m currently working as a backend NodeJS developer and learning the MERN/MEAN Stack
 - 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 How to reach me: email at mrameezdev@gmail.com
 
